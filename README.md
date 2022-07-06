@@ -4,6 +4,8 @@
 
 > The "Hello World rails App Back-end" is a rails API application that return a random greeting by clicking on the button generator.
 
+> ### Link to [Hello_react_front_end](https://github.com/cynthiainga/hello_react_front_end)
+
 ## Built With
 
 - Ruby on Rails
